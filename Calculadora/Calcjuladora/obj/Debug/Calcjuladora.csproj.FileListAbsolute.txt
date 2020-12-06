@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\bin\Debug\Calcjuladora.exe.config
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\bin\Debug\Calcjuladora.exe
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\bin\Debug\Calcjuladora.pdb
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.Form1.resources
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.exe
+C:\Users\Usuario\source\repos\Calcjuladora\Calcjuladora\obj\Debug\Calcjuladora.pdb

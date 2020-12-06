@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\bin\Debug\Clase_1.exe.config
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\bin\Debug\Clase_1.exe
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\bin\Debug\Clase_1.pdb
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\obj\Debug\Clase_1.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\obj\Debug\Clase_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\obj\Debug\Clase_1.exe
+C:\Users\Usuario\Documents\TRIMESTRE III\PROGRAMACIÓN\Clase_1\Clase_1\obj\Debug\Clase_1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\bin\Debug\AppEstudiantes.exe.config
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\bin\Debug\AppEstudiantes.exe
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\bin\Debug\AppEstudiantes.pdb
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.Form1.resources
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.exe
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.pdb
+C:\Users\Usuario\source\repos\AppEstudiantes\AppEstudiantes\obj\Debug\AppEstudiantes.Form2.resources
